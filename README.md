@@ -1,2 +1,2 @@
-# Python_Exercise
+# PYTHON_EXERCISE_1
 Python
